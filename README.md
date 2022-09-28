@@ -6,7 +6,9 @@ As such games can take a heavy toll on your mouse (and hands), I decided to writ
 
 Enjoy and have fun!
 
-Versions change:
-0.01 - automated left mouse button clicks
 w - starts clicking
 q - stops clicking
+
+Versions change:
+0.01 - automated left mouse button clicks
+
