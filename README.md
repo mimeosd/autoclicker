@@ -8,3 +8,5 @@ Enjoy and have fun!
 
 Versions change:
 0.01 - automated left mouse button clicks
+w - starts clicking
+q - stops clicking
