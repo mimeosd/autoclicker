@@ -12,3 +12,5 @@ q - stops clicking
 Versions change:
 0.01 - automated left mouse button clicks
 
+0.02 - added a lot of UI but need to solve some bugs with Entry widgets.
+Some options still remain unfinished.
